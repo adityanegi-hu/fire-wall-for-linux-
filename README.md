@@ -302,18 +302,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This firewall is provided for educational and legitimate security purposes only. Users are responsible for ensuring compliance with applicable laws and regulations in their jurisdiction. The authors are not responsible for any misuse of this software.
 
-## 🙏 Acknowledgments
-
-- [Scapy](https://scapy.net/) - Packet manipulation library
-- [NetfilterQueue](https://github.com/kti/python-netfilterqueue) - Python bindings for libnetfilter_queue
-- [Linux Netfilter](https://www.netfilter.org/) - Packet filtering framework
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/dpi-firewall/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/dpi-firewall/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/dpi-firewall/wiki)
-
----
-
-**Star ⭐ this repository if you find it useful!**
